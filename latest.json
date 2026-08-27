@@ -1,18 +1,18 @@
 {
-  "version": "3.3.8",
-  "display_version": "0.3.8",
-  "notes": "Добавлен инструмент прямого сброса зависшей рабочей задачи расширения в выбранных открытых профилях с проверкой состояния перед очисткой.",
-  "published_at": "2026-08-27T19:53:26Z",
+  "version": "3.3.9",
+  "display_version": "0.3.9",
+  "notes": "В настройках появился ручной сбор и защищённая общая актуализация данных REG.RU для разрешённой команды AdsPower. Данные проверяются перед заменой и не сохраняются на компьютере.",
+  "published_at": "2026-08-27T23:22:26Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.8/AdsPower-Workspace-macOS-0.3.8.zip",
-      "sha256": "a4bff250c94f40651810c785c24c4992e8e68eb76b2a023476470eebe43fb9e5",
-      "size": 1060392
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.9/AdsPower-Workspace-macOS-0.3.9.zip",
+      "sha256": "7a7573b82f5aaee9737dba9f3a25babfe39b11e09ef3b80fc86a4c170c2a34e6",
+      "size": 1081456
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.8/AdsPower-Workspace-Windows-0.3.8.zip",
-      "sha256": "6877187cc2e1aa3952631d922216b9f7d99938636f15777b23838ea5577e3142",
-      "size": 17866472
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.9/AdsPower-Workspace-Windows-0.3.9.zip",
+      "sha256": "0c5b7a078bc53a3496bcd74cec9bf0869e60008ae1614cfac5e342a73ff9ea8a",
+      "size": 17897025
     }
   }
 }

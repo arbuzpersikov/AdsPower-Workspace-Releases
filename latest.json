@@ -1,18 +1,18 @@
 {
-  "version": "3.3.4",
-  "display_version": "0.3.4",
-  "notes": "Открытые профили исключаются из поиска, показываются владельцем в предпросмотре и повторно проверяются перед каждым изменением.",
-  "published_at": "2026-08-27T12:52:46Z",
+  "version": "3.3.5",
+  "display_version": "0.3.5",
+  "notes": "Во время изменения статусов доменов показывается живой прогресс, а результат восстанавливается после потери связи без повторной записи.",
+  "published_at": "2026-08-27T14:20:33Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.4/AdsPower-Workspace-macOS-0.3.4.zip",
-      "sha256": "da90abae25ffb8f71a3f384bc8628636b06453bef9c72db386a30aadd41a7025",
-      "size": 1019192
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.5/AdsPower-Workspace-macOS-0.3.5.zip",
+      "sha256": "e8ba44c71d0e7a9070ee1483590decd19fad7ee81bfb50a1da713172362c9dbd",
+      "size": 1020015
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.4/AdsPower-Workspace-Windows-0.3.4.zip",
-      "sha256": "ad7ab5931afd88f4664f20c0b5d3da2d93a5b156cfaf508cffd4dba9dbaf151d",
-      "size": 17811577
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.5/AdsPower-Workspace-Windows-0.3.5.zip",
+      "sha256": "33f08d9d05a1bb3b0634f8407842b0b11ebca0ec7af615e9a5046bf2dc462829",
+      "size": 17814245
     }
   }
 }

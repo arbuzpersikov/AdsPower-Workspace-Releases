@@ -1,17 +1,17 @@
 {
-  "version": "3.2.1",
-  "notes": "Командная авторизация через AdsPower, 12-часовые токены, защищённое хранение Keychain/DPAPI и исправление кириллицы в Keychain macOS.",
-  "published_at": "2026-08-27T09:27:12Z",
+  "version": "3.3.0",
+  "notes": "Автоматическое обязательное подключение рабочей команды AdsPower, автопродление доступа и очистка учебных отметок после завершения обучения.",
+  "published_at": "2026-08-27T09:47:04Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.2.1/AdsPower-Workspace-macOS-3.2.1.zip",
-      "sha256": "f026c28393d37cfb148df2db4f0631e8ae7a31ed3b6234d7f82bd2ced8749753",
-      "size": 740168
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.3.0/AdsPower-Workspace-macOS-3.3.0.zip",
+      "sha256": "2a37b4ff94fa90ac07d35ff50affb19a41e95046abb1d57a993a95aa70dadd17",
+      "size": 742490
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.2.1/AdsPower-Workspace-Windows-3.2.1.zip",
-      "sha256": "be98f5bae890cb7a294da46c94c6a7f2e06c7cb444a21b721c9cb9174560dfe0",
-      "size": 16885100
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.3.0/AdsPower-Workspace-Windows-3.3.0.zip",
+      "sha256": "303ba390c801a220dea2cdb5b62b37cfe4b4284e55a8f669545ae871b4bda160",
+      "size": 16891140
     }
   }
 }

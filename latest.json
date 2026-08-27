@@ -1,18 +1,18 @@
 {
-  "version": "3.3.6",
-  "display_version": "0.3.6",
-  "notes": "Исправлена общая причина ложных ошибок после долгих запросов: приложение восстанавливает фактический результат без повторного изменения данных.",
-  "published_at": "2026-08-27T14:49:17Z",
+  "version": "3.3.7",
+  "display_version": "0.3.7",
+  "notes": "Добавлено гибкое распределение сохранённых профилей: выбор по одному, разбиение на произвольное число групп и защита от повторов между ними.",
+  "published_at": "2026-08-27T15:20:26Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.6/AdsPower-Workspace-macOS-0.3.6.zip",
-      "sha256": "67394be43461f22240d025f72dc1acdec13ec1b5edd93b9b23fa87ee828db271",
-      "size": 1025994
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.7/AdsPower-Workspace-macOS-0.3.7.zip",
+      "sha256": "51f68f9d1138602e815fde872047e4c37f81a6d7e2d151df8e447e4ffcf030d5",
+      "size": 1036913
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.6/AdsPower-Workspace-Windows-0.3.6.zip",
-      "sha256": "293395820aa17332565dc77d4257ecf49be1bfd13dfd94d07c03a2a94f551431",
-      "size": 17822966
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.7/AdsPower-Workspace-Windows-0.3.7.zip",
+      "sha256": "5641793056ecafc95d4b0be9b050c57f32e5c0c378b3a607d5826482048f2abe",
+      "size": 17833865
     }
   }
 }

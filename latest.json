@@ -1,0 +1,17 @@
+{
+  "version": "3.1.0",
+  "notes": "Единый Google-шлюз, безопасные обновления, исправления RPA и горячих клавиш, улучшенное обучение и Windows 10+.",
+  "published_at": "2026-08-27T07:15:02Z",
+  "assets": {
+    "macos": {
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.1.0/AdsPower-Workspace-macOS-3.1.0.zip",
+      "sha256": "7ac1d26a77f3708a9b0a539b3058ab100b214f3096ae004e9cc598f35651eddf",
+      "size": 731631
+    },
+    "windows": {
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.1.0/AdsPower-Workspace-Windows-3.1.0.zip",
+      "sha256": "440687448eef7291a57546b81f05561b3eb0fbdc0b27d36823f2b82a5143eb46",
+      "size": 16870086
+    }
+  }
+}

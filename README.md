@@ -1,2 +1,7 @@
-# AdsPower-Workspace-Releases
-Публичные проверенные сборки AdsPower Workspace для macOS и Windows
+# AdsPower Workspace Releases
+
+Публичные проверенные сборки AdsPower Workspace для macOS и Windows 10+.
+
+Скачивайте готовые архивы на странице [Releases](https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/latest). Приложение читает `latest.json` при запуске и каждые 12 часов, но скачивает и устанавливает обновление только после нажатия пользователя. Перед установкой архив обязательно сверяется по SHA-256.
+
+В этом репозитории находятся только готовые сборки и открытый манифест обновлений. Командный секрет Google-шлюза, прокси и рабочие данные сюда не публикуются.

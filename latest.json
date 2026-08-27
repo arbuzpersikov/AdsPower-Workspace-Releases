@@ -1,18 +1,18 @@
 {
-  "version": "3.3.7",
-  "display_version": "0.3.7",
-  "notes": "Добавлено гибкое распределение сохранённых профилей: выбор по одному, разбиение на произвольное число групп и защита от повторов между ними.",
-  "published_at": "2026-08-27T15:20:26Z",
+  "version": "3.3.8",
+  "display_version": "0.3.8",
+  "notes": "Добавлен инструмент прямого сброса зависшей рабочей задачи расширения в выбранных открытых профилях с проверкой состояния перед очисткой.",
+  "published_at": "2026-08-27T19:53:26Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.7/AdsPower-Workspace-macOS-0.3.7.zip",
-      "sha256": "51f68f9d1138602e815fde872047e4c37f81a6d7e2d151df8e447e4ffcf030d5",
-      "size": 1036913
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.8/AdsPower-Workspace-macOS-0.3.8.zip",
+      "sha256": "a4bff250c94f40651810c785c24c4992e8e68eb76b2a023476470eebe43fb9e5",
+      "size": 1060392
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.7/AdsPower-Workspace-Windows-0.3.7.zip",
-      "sha256": "5641793056ecafc95d4b0be9b050c57f32e5c0c378b3a607d5826482048f2abe",
-      "size": 17833865
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.8/AdsPower-Workspace-Windows-0.3.8.zip",
+      "sha256": "6877187cc2e1aa3952631d922216b9f7d99938636f15777b23838ea5577e3142",
+      "size": 17866472
     }
   }
 }

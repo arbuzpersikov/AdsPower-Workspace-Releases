@@ -1,17 +1,17 @@
 {
-  "version": "3.1.0",
-  "notes": "Единый Google-шлюз, безопасные обновления, исправления RPA и горячих клавиш, улучшенное обучение и Windows 10+.",
-  "published_at": "2026-08-27T07:15:02Z",
+  "version": "3.2.0",
+  "notes": "Командная авторизация через AdsPower, 12-часовые токены и защищённое хранение в Keychain/DPAPI без общих файлов доступа.",
+  "published_at": "2026-08-27T09:14:20Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.1.0/AdsPower-Workspace-macOS-3.1.0.zip",
-      "sha256": "7ac1d26a77f3708a9b0a539b3058ab100b214f3096ae004e9cc598f35651eddf",
-      "size": 731631
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.2.0/AdsPower-Workspace-macOS-3.2.0.zip",
+      "sha256": "2b71d5574b9c57f72a2ff4cf5674456c66b949974240780556d46c06c3bb3427",
+      "size": 739813
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.1.0/AdsPower-Workspace-Windows-3.1.0.zip",
-      "sha256": "440687448eef7291a57546b81f05561b3eb0fbdc0b27d36823f2b82a5143eb46",
-      "size": 16870086
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.2.0/AdsPower-Workspace-Windows-3.2.0.zip",
+      "sha256": "00c42157b34a891050fc2abb977b922ad18c0ca1ce678ac8ffd7f127d088e922",
+      "size": 16887067
     }
   }
 }

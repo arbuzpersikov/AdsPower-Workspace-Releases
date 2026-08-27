@@ -1,18 +1,18 @@
 {
-  "version": "3.3.5",
-  "display_version": "0.3.5",
-  "notes": "Во время изменения статусов доменов показывается живой прогресс, а результат восстанавливается после потери связи без повторной записи.",
-  "published_at": "2026-08-27T14:20:33Z",
+  "version": "3.3.6",
+  "display_version": "0.3.6",
+  "notes": "Исправлена общая причина ложных ошибок после долгих запросов: приложение восстанавливает фактический результат без повторного изменения данных.",
+  "published_at": "2026-08-27T14:49:17Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.5/AdsPower-Workspace-macOS-0.3.5.zip",
-      "sha256": "e8ba44c71d0e7a9070ee1483590decd19fad7ee81bfb50a1da713172362c9dbd",
-      "size": 1020015
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.6/AdsPower-Workspace-macOS-0.3.6.zip",
+      "sha256": "67394be43461f22240d025f72dc1acdec13ec1b5edd93b9b23fa87ee828db271",
+      "size": 1025994
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.5/AdsPower-Workspace-Windows-0.3.5.zip",
-      "sha256": "33f08d9d05a1bb3b0634f8407842b0b11ebca0ec7af615e9a5046bf2dc462829",
-      "size": 17814245
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.6/AdsPower-Workspace-Windows-0.3.6.zip",
+      "sha256": "293395820aa17332565dc77d4257ecf49be1bfd13dfd94d07c03a2a94f551431",
+      "size": 17822966
     }
   }
 }

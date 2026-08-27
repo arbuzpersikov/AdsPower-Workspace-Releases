@@ -1,17 +1,18 @@
 {
-  "version": "3.3.1",
-  "notes": "Упрощённые тексты интерфейса и инструкции, более устойчивая проверка связи и корректное завершение предыдущей версии после обновления.",
-  "published_at": "2026-08-27T10:16:10Z",
+  "version": "3.3.2",
+  "display_version": "0.3.2",
+  "notes": "Живая очередь настройки профилей, восстановление прогресса после обрыва связи и исправление кнопки применения.",
+  "published_at": "2026-08-27T10:57:09Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.3.1/AdsPower-Workspace-macOS-3.3.1.zip",
-      "sha256": "da02e33fac107dea6b78355681259e7ee4e1ee97c0fff2f0926cab2e91ba7bae",
-      "size": 730919
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.2/AdsPower-Workspace-macOS-0.3.2.zip",
+      "sha256": "6d975114d04002f89bd0e061b6b32e653586122ce3c0a07ded4f0d1c26d79a20",
+      "size": 741425
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v3.3.1/AdsPower-Workspace-Windows-3.3.1.zip",
-      "sha256": "e44d41e136f0b4c2330dccbc00f0084b6c2bf0569b4eb0a032772e6b70b1e88a",
-      "size": 16878815
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.2/AdsPower-Workspace-Windows-0.3.2.zip",
+      "sha256": "fb19660e561f25d2d90d3b178b50ccbd74f88d2a029a21d5f090e172f9c84b0f",
+      "size": 16893628
     }
   }
 }

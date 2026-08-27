@@ -1,18 +1,18 @@
 {
-  "version": "3.3.3",
-  "display_version": "0.3.3",
-  "notes": "Поиск профилей по времени, шесть сохранённых подборок, тематические подписи и открытие профилей в фоне или на выбранном рабочем столе.",
-  "published_at": "2026-08-27T11:59:42Z",
+  "version": "3.3.4",
+  "display_version": "0.3.4",
+  "notes": "Открытые профили исключаются из поиска, показываются владельцем в предпросмотре и повторно проверяются перед каждым изменением.",
+  "published_at": "2026-08-27T12:52:46Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.3/AdsPower-Workspace-macOS-0.3.3.zip",
-      "sha256": "82cd356a2796ea47a896129a8461e1b1a26d256688d1d2ff4d0e0b1e04335b60",
-      "size": 1006363
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.4/AdsPower-Workspace-macOS-0.3.4.zip",
+      "sha256": "da90abae25ffb8f71a3f384bc8628636b06453bef9c72db386a30aadd41a7025",
+      "size": 1019192
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.3/AdsPower-Workspace-Windows-0.3.3.zip",
-      "sha256": "133bcce0d40935e648a358501ecd628456e125a9ec97926d2054af1d6a118530",
-      "size": 17796841
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.4/AdsPower-Workspace-Windows-0.3.4.zip",
+      "sha256": "ad7ab5931afd88f4664f20c0b5d3da2d93a5b156cfaf508cffd4dba9dbaf151d",
+      "size": 17811577
     }
   }
 }

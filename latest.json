@@ -1,18 +1,18 @@
 {
-  "version": "3.3.10",
-  "display_version": "0.3.10",
-  "notes": "Исправлен формат заметок: первая строка содержит только домен без подписи и двоеточия, а тематика с номером записывается отдельно на следующей строке.",
-  "published_at": "2026-08-28T08:48:13Z",
+  "version": "3.3.11",
+  "display_version": "0.3.11",
+  "notes": "Подбор доменов теперь исключает остановленные и истекающие хостинги по актуальным данным REG.RU. После подтверждения команды прекращён лишний фоновый опрос AdsPower.",
+  "published_at": "2026-08-28T09:46:45Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.10/AdsPower-Workspace-macOS-0.3.10.zip",
-      "sha256": "b87472101714c3d207c8e3f017db6deaad1af46442cb7363e27730a22276eb77",
-      "size": 1081726
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.11/AdsPower-Workspace-macOS-0.3.11.zip",
+      "sha256": "01be8bcc80a8a4ede6f58fb4f95df9e365c36ff19a5450eebb7172d0af3b42c4",
+      "size": 1084145
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.10/AdsPower-Workspace-Windows-0.3.10.zip",
-      "sha256": "cf03a8e63b882fbef1e532de5a371f57dbe77119931ab14dee2a1facebc841b1",
-      "size": 17895459
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.11/AdsPower-Workspace-Windows-0.3.11.zip",
+      "sha256": "b25725141685db980fa03fef4ec40d5cf5098167887e7b7369574d9d8fdb3c67",
+      "size": 17901387
     }
   }
 }

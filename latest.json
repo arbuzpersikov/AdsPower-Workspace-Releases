@@ -1,18 +1,18 @@
 {
-  "version": "3.3.9",
-  "display_version": "0.3.9",
-  "notes": "В настройках появился ручной сбор и защищённая общая актуализация данных REG.RU для разрешённой команды AdsPower. Данные проверяются перед заменой и не сохраняются на компьютере.",
-  "published_at": "2026-08-27T23:22:26Z",
+  "version": "3.3.10",
+  "display_version": "0.3.10",
+  "notes": "Исправлен формат заметок: первая строка содержит только домен без подписи и двоеточия, а тематика с номером записывается отдельно на следующей строке.",
+  "published_at": "2026-08-28T08:48:13Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.9/AdsPower-Workspace-macOS-0.3.9.zip",
-      "sha256": "7a7573b82f5aaee9737dba9f3a25babfe39b11e09ef3b80fc86a4c170c2a34e6",
-      "size": 1081456
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.10/AdsPower-Workspace-macOS-0.3.10.zip",
+      "sha256": "b87472101714c3d207c8e3f017db6deaad1af46442cb7363e27730a22276eb77",
+      "size": 1081726
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.9/AdsPower-Workspace-Windows-0.3.9.zip",
-      "sha256": "0c5b7a078bc53a3496bcd74cec9bf0869e60008ae1614cfac5e342a73ff9ea8a",
-      "size": 17897025
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.10/AdsPower-Workspace-Windows-0.3.10.zip",
+      "sha256": "cf03a8e63b882fbef1e532de5a371f57dbe77119931ab14dee2a1facebc841b1",
+      "size": 17895459
     }
   }
 }

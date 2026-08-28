@@ -1,18 +1,18 @@
 {
-  "version": "3.3.12",
-  "display_version": "0.3.12",
-  "notes": "Снижена нагрузка на AdsPower: проверки команды, каталогов и занятости профилей объединены и не повторяются для каждого элемента очереди. Сканирование расширения теперь запускается только кнопкой.",
-  "published_at": "2026-08-28T10:11:32Z",
+  "version": "0.4.0",
+  "display_version": "0.4.0",
+  "notes": "В настройках профилей появился отдельный режим принудительной замены прокси. Он выдаёт новый прокси каждому выбранному профилю, а обычная проверка по-прежнему сохраняет существующий уникальный прокси.",
+  "published_at": "2026-08-28T20:39:31Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.12/AdsPower-Workspace-macOS-0.3.12.zip",
-      "sha256": "63ac293f1f9dabbe796cae665912b297e7e8276c7ab8b6449049269ebbbd43ef",
-      "size": 1085190
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.0/AdsPower-Workspace-macOS-0.4.0.zip",
+      "sha256": "88f28e67f3dac1f40a4c97f409ac7e4467ec8986d344808e54ab9c3df75b9654",
+      "size": 1087263
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.12/AdsPower-Workspace-Windows-0.3.12.zip",
-      "sha256": "e973e856e5975fe05d6aba6c842a4ed8930f812b7a5448e8b1ec6fa89f0ba9a3",
-      "size": 17904918
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.0/AdsPower-Workspace-Windows-0.4.0.zip",
+      "sha256": "b89ac4842e5c1bc2f8645d1a39b1b7d57e95f5aabcde8451e292109e21808d85",
+      "size": 17903664
     }
   }
 }

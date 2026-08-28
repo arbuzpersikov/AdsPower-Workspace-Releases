@@ -1,18 +1,18 @@
 {
-  "version": "3.3.11",
-  "display_version": "0.3.11",
-  "notes": "Подбор доменов теперь исключает остановленные и истекающие хостинги по актуальным данным REG.RU. После подтверждения команды прекращён лишний фоновый опрос AdsPower.",
-  "published_at": "2026-08-28T09:46:45Z",
+  "version": "3.3.12",
+  "display_version": "0.3.12",
+  "notes": "Снижена нагрузка на AdsPower: проверки команды, каталогов и занятости профилей объединены и не повторяются для каждого элемента очереди. Сканирование расширения теперь запускается только кнопкой.",
+  "published_at": "2026-08-28T10:11:32Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.11/AdsPower-Workspace-macOS-0.3.11.zip",
-      "sha256": "01be8bcc80a8a4ede6f58fb4f95df9e365c36ff19a5450eebb7172d0af3b42c4",
-      "size": 1084145
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.12/AdsPower-Workspace-macOS-0.3.12.zip",
+      "sha256": "63ac293f1f9dabbe796cae665912b297e7e8276c7ab8b6449049269ebbbd43ef",
+      "size": 1085190
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.11/AdsPower-Workspace-Windows-0.3.11.zip",
-      "sha256": "b25725141685db980fa03fef4ec40d5cf5098167887e7b7369574d9d8fdb3c67",
-      "size": 17901387
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.3.12/AdsPower-Workspace-Windows-0.3.12.zip",
+      "sha256": "e973e856e5975fe05d6aba6c842a4ed8930f812b7a5448e8b1ec6fa89f0ba9a3",
+      "size": 17904918
     }
   }
 }

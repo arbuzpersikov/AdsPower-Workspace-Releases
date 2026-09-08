@@ -1,18 +1,18 @@
 {
-  "version": "0.4.1",
-  "display_version": "0.4.1",
-  "notes": "Исправлен поиск записей для очистки в новых сборках расширения. Приложение различает отсутствие записей и недоступное расширение, проверяет состояние перед очисткой и показывает, что делать дальше. Настройки, заметки и данные браузера сохраняются.",
-  "published_at": "2026-09-08T11:36:57Z",
+  "version": "0.4.2",
+  "display_version": "0.4.2",
+  "notes": "Возвращено автоматическое обновление вкладок Direct после очистки, включая редакторы кампаний. Перед очисткой появится предупреждение о потере несохранённого ввода. Приложение проверяет обновление страниц и сообщает, если его не удалось подтвердить.",
+  "published_at": "2026-09-08T12:16:07Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.1/AdsPower-Workspace-macOS-0.4.1.zip",
-      "sha256": "ea544765b88b75a8e1f7f83947f0ca7227f2e70b962c00f726a5233030e0b304",
-      "size": 1093681
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.2/AdsPower-Workspace-macOS-0.4.2.zip",
+      "sha256": "a42cb8cdab32228160c3c5432640bc6a9c95788cd3114207685fe9b2aca67ec8",
+      "size": 1094418
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.1/AdsPower-Workspace-Windows-0.4.1.zip",
-      "sha256": "91783c3c7016c4e9324c7d826a928ab5d0410b4c57a60616c18ed71edca53000",
-      "size": 17918111
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.2/AdsPower-Workspace-Windows-0.4.2.zip",
+      "sha256": "a0f690bc2631fee5a3610f265b1511df3d9717a9328c0ea14f956194d5d2e8bf",
+      "size": 17920908
     }
   }
 }

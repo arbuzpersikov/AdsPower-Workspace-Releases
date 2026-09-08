@@ -1,18 +1,18 @@
 {
-  "version": "0.4.0",
-  "display_version": "0.4.0",
-  "notes": "В настройках профилей появился отдельный режим принудительной замены прокси. Он выдаёт новый прокси каждому выбранному профилю, а обычная проверка по-прежнему сохраняет существующий уникальный прокси.",
-  "published_at": "2026-08-28T20:39:31Z",
+  "version": "0.4.1",
+  "display_version": "0.4.1",
+  "notes": "Исправлен поиск записей для очистки в новых сборках расширения. Приложение различает отсутствие записей и недоступное расширение, проверяет состояние перед очисткой и показывает, что делать дальше. Настройки, заметки и данные браузера сохраняются.",
+  "published_at": "2026-09-08T11:36:57Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.0/AdsPower-Workspace-macOS-0.4.0.zip",
-      "sha256": "88f28e67f3dac1f40a4c97f409ac7e4467ec8986d344808e54ab9c3df75b9654",
-      "size": 1087263
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.1/AdsPower-Workspace-macOS-0.4.1.zip",
+      "sha256": "ea544765b88b75a8e1f7f83947f0ca7227f2e70b962c00f726a5233030e0b304",
+      "size": 1093681
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.0/AdsPower-Workspace-Windows-0.4.0.zip",
-      "sha256": "b89ac4842e5c1bc2f8645d1a39b1b7d57e95f5aabcde8451e292109e21808d85",
-      "size": 17903664
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.1/AdsPower-Workspace-Windows-0.4.1.zip",
+      "sha256": "91783c3c7016c4e9324c7d826a928ab5d0410b4c57a60616c18ed71edca53000",
+      "size": 17918111
     }
   }
 }

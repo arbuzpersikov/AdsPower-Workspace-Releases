@@ -1,18 +1,18 @@
 {
-  "version": "0.4.2",
-  "display_version": "0.4.2",
-  "notes": "Возвращено автоматическое обновление вкладок Direct после очистки, включая редакторы кампаний. Перед очисткой появится предупреждение о потере несохранённого ввода. Приложение проверяет обновление страниц и сообщает, если его не удалось подтвердить.",
-  "published_at": "2026-09-08T12:16:07Z",
+  "version": "0.4.3",
+  "display_version": "0.4.3",
+  "notes": "Добавлена поддержка актуальной версии расширения при поиске данных рабочей задачи для очистки. Сборка для macOS больше не оставляет промежуточные копии приложения в меню «Программы». Готовые ZIP и прежние архивы сохраняются.",
+  "published_at": "2026-09-09T09:33:25Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.2/AdsPower-Workspace-macOS-0.4.2.zip",
-      "sha256": "a42cb8cdab32228160c3c5432640bc6a9c95788cd3114207685fe9b2aca67ec8",
-      "size": 1094418
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.3/AdsPower-Workspace-macOS-0.4.3.zip",
+      "sha256": "fc0eccb695be648a58049638ed8fe6e0b60f3533e3bf5ada629b9fe781460181",
+      "size": 1094613
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.2/AdsPower-Workspace-Windows-0.4.2.zip",
-      "sha256": "a0f690bc2631fee5a3610f265b1511df3d9717a9328c0ea14f956194d5d2e8bf",
-      "size": 17920908
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.4.3/AdsPower-Workspace-Windows-0.4.3.zip",
+      "sha256": "b2f9963a619c2a615e4fc19449ad41e8fc74146a8951d70f71b0abef5c79ec87",
+      "size": 17920934
     }
   }
 }

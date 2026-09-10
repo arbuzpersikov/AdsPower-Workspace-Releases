@@ -1,18 +1,18 @@
 {
-  "version": "0.5.1",
-  "display_version": "0.5.1",
-  "notes": "Понятные сообщения о дубликатах: отдельно повтор внутри списка импорта и аккаунт, уже существующий в AdsPower. Показываются логин, строка и номера найденных профилей. Нумерация учитывает пустые строки. Если аккаунт появился после проверки, приложение также сообщает, какой профиль найден. Пароли и ответы на секретный вопрос в сообщения не попадают.",
-  "published_at": "2026-09-10T09:20:47Z",
+  "version": "0.5.2",
+  "display_version": "0.5.2",
+  "notes": "Прокси выдаются из личного списка сотрудника; если пользователь не определён, используется общий список. Пустой личный список не подменяется общим. Перед назначением и заменой проверяются доступность и российский IP. При остатке 30 и меньше появляется предупреждение. Улучшена защита от повторного расходования прокси. Стартовый сервис выбирается случайно для каждого нового профиля. Запросы к AdsPower выполняются последовательно с защитными паузами; при отказах доступа работа останавливается.",
+  "published_at": "2026-09-10T11:46:26Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.1/AdsPower-Workspace-macOS-0.5.1.zip",
-      "sha256": "a4526f6b625dcc15e28541f39e933b65c4dbfea211381ef7cd2db3030394cbdd",
-      "size": 1118982
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.2/AdsPower-Workspace-macOS-0.5.2.zip",
+      "sha256": "a93c4dfafc998e23323c40e207cba1151cf8b7faa505e8dfb00419b4c61e6893",
+      "size": 1133377
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.1/AdsPower-Workspace-Windows-0.5.1.zip",
-      "sha256": "1912f146c936f7ee09ce57ea3a4b9ed49e1cf407bc9aa850281fe477fc924906",
-      "size": 17962360
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.2/AdsPower-Workspace-Windows-0.5.2.zip",
+      "sha256": "62563c23e818d2e02faa27eaf30cbddcb2a52b54c6be573b4d8f712d1a62b19f",
+      "size": 17987938
     }
   }
 }

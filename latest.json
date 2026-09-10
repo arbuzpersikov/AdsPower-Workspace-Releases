@@ -1,18 +1,18 @@
 {
-  "version": "0.5.6",
-  "display_version": "0.5.6",
-  "notes": "Исправлена защита проверки импорта: при неудачной повторной проверке старый план больше нельзя запустить. Кнопка «Повторить» выполняет новую проверку, и только её успешное завершение разрешает продолжение. Неудачная загрузка сохранённого импорта и смена настроек также блокируют прежний план. Усилена проверка ответов Google; при сбое диагностический лог содержит сведения об этапе ошибки без паролей и токенов. Сохранённые импорты, защита от дублей и интервал запросов AdsPower не изменены.",
-  "published_at": "2026-09-10T14:02:19Z",
+  "version": "0.5.7",
+  "display_version": "0.5.7",
+  "notes": "В стартовом списке импорта остались только 27 сервисов Яндекса. Убраны «Колёса Даром» и остальные сторонние сайты; Почта по-прежнему исключена. Выбор остаётся случайным для каждого профиля. Обновлены подсказка и инструкция. Исправлено сохранение состояния при временном отказе доступа к файлу в Windows. Уже созданные профили и сохранённые очереди не меняются. Для ещё не запущенной очереди нажмите «Проверить импорт» заново. Не создавайте повторно уже начатый импорт. Правила прокси, RPA и лимиты запросов AdsPower не изменены.",
+  "published_at": "2026-09-10T19:46:57Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.6/AdsPower-Workspace-macOS-0.5.6.zip",
-      "sha256": "cf3418bf88894ce1804e0a7dc2be0dbf9679d81b0a41ac506aabbd3a368e203e",
-      "size": 1140548
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.7/AdsPower-Workspace-macOS-0.5.7.zip",
+      "sha256": "331c78a48151abe1efb0717509cc430c2e9f48ac3f6bdbd5fe2cf2d20e2c3a01",
+      "size": 1140623
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.6/AdsPower-Workspace-Windows-0.5.6.zip",
-      "sha256": "bb1dfacecee6d1bafc3c1190e4b2f1bc5eb3b4caaaab52c20d1cea06aad9a582",
-      "size": 18001069
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.7/AdsPower-Workspace-Windows-0.5.7.zip",
+      "sha256": "a0a03deb19a77590044d442aa363f2052c8f5421a7c043476f6e536fe241d82e",
+      "size": 17998466
     }
   }
 }

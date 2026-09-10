@@ -1,18 +1,18 @@
 {
-  "version": "0.5.0",
-  "display_version": "0.5.0",
-  "notes": "Новый раздел импорта аккаунтов Яндекс ID: один аккаунт — один профиль, текущие настройки AdsPower, цветные теги, уникальные прокси из общего списка и отдельный Cookie Robot каждому профилю. Проверка дублей, очередь с результатом по каждой строке, остановка и продолжение. Настройки AdsPower не подменяются: неизвестные параметры блокируют импорт. Локальные файлы импорта содержат пароли — не передавайте их посторонним.",
-  "published_at": "2026-09-10T08:42:03Z",
+  "version": "0.5.1",
+  "display_version": "0.5.1",
+  "notes": "Понятные сообщения о дубликатах: отдельно повтор внутри списка импорта и аккаунт, уже существующий в AdsPower. Показываются логин, строка и номера найденных профилей. Нумерация учитывает пустые строки. Если аккаунт появился после проверки, приложение также сообщает, какой профиль найден. Пароли и ответы на секретный вопрос в сообщения не попадают.",
+  "published_at": "2026-09-10T09:20:47Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.0/AdsPower-Workspace-macOS-0.5.0.zip",
-      "sha256": "2ba34c2d3c51ef288cd1dc7d51489ec6199d99954fc123d27789024ec66c3dc1",
-      "size": 1118179
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.1/AdsPower-Workspace-macOS-0.5.1.zip",
+      "sha256": "a4526f6b625dcc15e28541f39e933b65c4dbfea211381ef7cd2db3030394cbdd",
+      "size": 1118982
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.0/AdsPower-Workspace-Windows-0.5.0.zip",
-      "sha256": "0262b8c887fd8353f2d292cc67cfa9d17dd76fef7fbd14e23fc0b49c840bcb7e",
-      "size": 17961444
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.1/AdsPower-Workspace-Windows-0.5.1.zip",
+      "sha256": "1912f146c936f7ee09ce57ea3a4b9ed49e1cf407bc9aa850281fe477fc924906",
+      "size": 17962360
     }
   }
 }

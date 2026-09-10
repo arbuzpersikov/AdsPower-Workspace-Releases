@@ -1,18 +1,18 @@
 {
-  "version": "0.5.2",
-  "display_version": "0.5.2",
-  "notes": "Прокси выдаются из личного списка сотрудника; если пользователь не определён, используется общий список. Пустой личный список не подменяется общим. Перед назначением и заменой проверяются доступность и российский IP. При остатке 30 и меньше появляется предупреждение. Улучшена защита от повторного расходования прокси. Стартовый сервис выбирается случайно для каждого нового профиля. Запросы к AdsPower выполняются последовательно с защитными паузами; при отказах доступа работа останавливается.",
-  "published_at": "2026-09-10T11:46:26Z",
+  "version": "0.5.3",
+  "display_version": "0.5.3",
+  "notes": "Меню, настройки и сохранённые подборки открываются без ожидания AdsPower. Подключение и загрузка рабочих списков разделены, повторные запросы сокращены. Обычные запросы идут последовательно с интервалом 2 секунды между началами; защита облачных запросов сохранена. Импорт реже перечитывает все профили, аккаунты можно вставлять во время загрузки настроек. Список процессов загружается только при включении RPA. Улучшено завершение текущих действий при закрытии и обновлении. При переходе с 0.5.2 сначала дождитесь завершения подключения и всех действий, затем устанавливайте обновление.",
+  "published_at": "2026-09-10T12:42:50Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.2/AdsPower-Workspace-macOS-0.5.2.zip",
-      "sha256": "a93c4dfafc998e23323c40e207cba1151cf8b7faa505e8dfb00419b4c61e6893",
-      "size": 1133377
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.3/AdsPower-Workspace-macOS-0.5.3.zip",
+      "sha256": "41c92bb817241131b7c762613880a64050a94a809d5e0b8b4f152a462bc963e0",
+      "size": 1137824
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.2/AdsPower-Workspace-Windows-0.5.2.zip",
-      "sha256": "62563c23e818d2e02faa27eaf30cbddcb2a52b54c6be573b4d8f712d1a62b19f",
-      "size": 17987938
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.3/AdsPower-Workspace-Windows-0.5.3.zip",
+      "sha256": "fc7bd120284c8738094969c3c14c5ff2fb1806a10ec95244c67d8d2d4fa3d52b",
+      "size": 17993647
     }
   }
 }

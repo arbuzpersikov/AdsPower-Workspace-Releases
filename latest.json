@@ -1,18 +1,18 @@
 {
-  "version": "0.5.4",
-  "display_version": "0.5.4",
-  "notes": "Убрана отдельная 30-секундная пауза облачных запросов AdsPower. Теперь для локальных и облачных запросов действует общий интервал 2 секунды между началами, по одному запросу одновременно. Выбор RPA при импорте больше не ждёт дополнительного облачного таймера после загрузки настроек или между страницами списка. Сохранены остановка при отказах доступа, защита незавершённых действий и ожидание, явно назначенное самим AdsPower. Ранее сохранённые остановки после ошибок обновление не снимает.",
-  "published_at": "2026-09-10T12:59:00Z",
+  "version": "0.5.5",
+  "display_version": "0.5.5",
+  "notes": "Список стартовых страниц при импорте расширен до 42 браузерных сервисов: 27 сервисов Яндекса и 15 внешних площадок. Почта исключена из новых назначений. Для каждого профиля сервис выбирается случайно, повторы допустимы. Уже подготовленные импорты сохраняют прежние страницы. Полный список доступен в раскрывающемся блоке раздела импорта. Приложение открывает страницу сервиса, но не выполняет вход и не подтверждает передачу данных. Дзен и мобильный RuStore не включены.",
+  "published_at": "2026-09-10T13:16:00Z",
   "assets": {
     "macos": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.4/AdsPower-Workspace-macOS-0.5.4.zip",
-      "sha256": "88e0e1fb175fc378d3b05ff437416cd6f1cf0ed7b523ab763bf1f61cf07c1a92",
-      "size": 1138032
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.5/AdsPower-Workspace-macOS-0.5.5.zip",
+      "sha256": "553c8bd6e06937ae55311746c3be6a6590543749d784edd55220028919de1188",
+      "size": 1138899
     },
     "windows": {
-      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.4/AdsPower-Workspace-Windows-0.5.4.zip",
-      "sha256": "39b47bc46a476af8b7c16a7a56b81d9451cb767e971bae8a3164d4a7b638ac4f",
-      "size": 17995863
+      "url": "https://github.com/arbuzpersikov/AdsPower-Workspace-Releases/releases/download/v0.5.5/AdsPower-Workspace-Windows-0.5.5.zip",
+      "sha256": "27e21f36d1332ee24dcd5adbb306e9d82e37b98414c08d264879cf675ddc1ec3",
+      "size": 17996840
     }
   }
 }
